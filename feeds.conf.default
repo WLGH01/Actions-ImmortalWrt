@@ -12,3 +12,5 @@ src-git smpackage https://github.com/kenzok8/small-package.git
 #src-link custom /usr/src/openwrt/custom-feed
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
+src-git-full modem https://github.com/siriling/5G-Modem-Support
+src-git qmodem https://github.com/FUjr/modem_feeds.git;main
